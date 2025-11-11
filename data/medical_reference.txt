@@ -1,1 +1,118 @@
+🔹 Symptom & Disease Reference
 
+Fever is commonly caused by viral infections such as influenza or COVID-19, but bacterial infections like typhoid and pneumonia are also possible. Persistent fever above 38.5°C for more than 3 days requires medical evaluation.
+
+Cough may result from viral respiratory infections, bronchitis, asthma, allergies, or pneumonia. A cough with yellow or green mucus can indicate bacterial infection.
+
+Sore throat is usually associated with viral infections like flu, but bacterial infections such as strep throat can cause severe throat pain with fever.
+
+Chest pain combined with cough and fever suggests pneumonia or severe bronchitis. Sudden severe chest pain, especially with breathlessness, may indicate cardiac emergency.
+
+Shortness of breath can be caused by pneumonia, asthma, COVID-19, heart failure, or pulmonary embolism. Immediate medical attention is required if breathing difficulty worsens or oxygen level drops.
+
+Fatigue and weakness can follow infections or be associated with anemia, metabolic disorders, or chronic diseases.
+
+Headache with fever and neck stiffness may suggest meningitis, which requires urgent medical treatment.
+
+Body pain and chills are common in viral infections like influenza and dengue. Persistent severe body pain with rash and vomiting may indicate dengue fever.
+
+Diarrhea with dehydration risk occurs in gastroenteritis. Severe diarrhea with bloody stools may indicate bacterial infection requiring antibiotics.
+
+Vomiting and abdominal pain may occur in gastritis, food poisoning, appendicitis, or viral infection. Persistent right-lower abdominal pain and fever may indicate appendicitis.
+
+🔹 Emergency Red-Flag Symptoms
+
+Seek immediate medical care if the patient has:
+
+Difficulty breathing or persistent shortness of breath
+
+Chest pain or tightness radiating to arm/jaw
+
+High fever > 39.5°C lasting > 72 hours
+
+Severe dehydration or inability to drink fluids
+
+Confusion, drowsiness, or seizures
+
+Rash with bleeding or bruising (possible dengue/sepsis)
+
+Persistent vomiting with abdominal rigidity
+
+Severe headache with neck stiffness
+
+Sudden loss of consciousness
+
+🔹 Possible Diagnoses by Symptoms
+Symptom Cluster	Likely Condition
+High fever, cough, chest pain	Pneumonia, severe bronchitis, influenza
+Sore throat + fever + swollen glands	Tonsillitis or strep throat
+Cough + wheeze + breathlessness	Asthma or COPD
+Fever + joint pain + rash	Dengue or chikungunya
+Fever + diarrhea/vomiting	Gastroenteritis, food poisoning
+Sudden chest pain + breathlessness	Cardiac emergency or pulmonary embolism
+Headache + fever + neck stiffness	Meningitis
+🔹 Treatment Guidance (General Advice)
+
+Viral infections: rest, oral fluids, paracetamol, ORS for dehydration
+
+Bacterial infections: may require antibiotics (doctor prescription only)
+
+Persistent cough/asthma: consider bronchodilators (doctor evaluation needed)
+
+High fever: paracetamol every 6-8 hrs, sponge bath for very high fever
+
+Hydration: ORS for diarrhea, electrolyte fluids
+
+Dengue suspected: avoid NSAIDs like ibuprofen, monitor platelets
+
+Avoid self-medication with antibiotics or steroids
+
+🔹 When to Seek Doctor Care
+
+Consult a doctor if:
+
+Fever lasts > 3 days
+
+Severe cough persists > 2 weeks
+
+Chest pain or breathing difficulty
+
+Persistent vomiting or diarrhea
+
+Rash with fever
+
+Symptoms worsen despite home care
+
+🔹 Home-Care Instructions
+
+Drink 2-3 liters of water daily
+
+Rest and avoid exertion
+
+Eat light meals — soups, rice, fruits
+
+Avoid oily/spicy food during infection
+
+Use steam inhalation for congestion
+
+Warm salt-water gargle for sore throat
+
+🔹 High-Risk Patients
+
+Monitor closely if patient has:
+
+Age above 60
+
+Diabetes
+
+Hypertension
+
+Chronic lung or kidney disease
+
+Heart problems
+
+Immunocompromised status
+
+Pregnancy
+
+These patients should consult a doctor early even with mild symptoms.
