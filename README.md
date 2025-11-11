@@ -35,6 +35,7 @@ MediSense-AI/
 ├── app.py                 # Streamlit UI
 ├── graph.py               # LangGraph agent pipeline
 ├── main.py                # CLI mode
+├── ollama_client.py    
 │
 ├── agents/
 │   ├── symptom_agent.py
