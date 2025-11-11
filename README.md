@@ -47,7 +47,6 @@ MediSense-AI/
 ├── data/
 │   └── medical_reference.txt
 │
-├── history.json
 ├── requirements.txt
 └── README.md
 ```
