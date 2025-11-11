@@ -1,4 +1,4 @@
-# MediSense AI: Multi-Agent Medical Triage & Advisory System
+# Multi-Agent Medical Triage & Advisory System
 
 ## Overview
 
